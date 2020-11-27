@@ -1,0 +1,21 @@
+/* Fonts
+font-family: 'Castoro', serif;
+font-family: 'Sansita Swashed', cursive;
+*/
+/*Global*/
+
+body {
+    margin: 0 auto;
+    padding: 50px;
+    
+}
+
+h1 {
+    font-family: 'Castoro', serif;
+    font-size: 54px;
+}
+.text {
+    font-size: 20px;
+    letter-spacing: 2px;
+    font-family: 'Sansita Swashed', cursive;
+}
