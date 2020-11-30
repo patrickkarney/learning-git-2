@@ -1,1 +1,3 @@
 node_modules/.bin/html-validate start "*.html"
+
+node_modules/.bin/autoprefixer-cli -o style.prefixed.css css/style.css
